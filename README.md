@@ -13,4 +13,4 @@ pip install -r requirements.txt
 Run the game by executimg the following command:
 
 ```
-python tic_tac_toe.py
+python visualizer.py
